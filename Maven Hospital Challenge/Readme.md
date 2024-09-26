@@ -55,14 +55,16 @@ These definitions helped in calculating key metrics such as total admissions, in
 ## Insights
 
 ### Encounters for Non-Admitted Patients
-| **Total Patients**                 | 974           |
-| **Total Encounters**               | 27,891        |
-| **Admission Encounters**           | 760           |
-| **Non-Admission Encounters**       | 26,739        |
-| **Males**                          | 46.88%        |
-| **Females**                        | 53.12%        |
-| **Most Common Encounter Class**    | Ambulatory (46.87%) |
-| **Average Cost Per Visit**         | $3,442        |
+| **Metric**                        | **Value**          |
+|-----------------------------------|--------------------|
+| Total Patients                    | 974                |
+| Total Encounters                  | 27,891             |
+| Admission Encounters              | 760                |
+| Non-Admission Encounters          | 26,739             |
+| Males                             | 46.88%             |
+| Females                           | 53.12%             |
+| Most Common Encounter Class       | Ambulatory (46.87%)|
+| Average Cost Per Visit            | $3,442             |
 
 ### Length of Stay for Non-Admitted Patients
 | **Under 15 minutes**     | 19,313               |
