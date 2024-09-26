@@ -55,45 +55,45 @@ These definitions helped in calculating key metrics such as total admissions, in
 ## Insights
 
 ### Encounters for Non-Admitted Patients
-- **Total Patients**: 974
-- **Total Encounters**: 27,891
-- **Admission Encounters**: 760
-- **Non-Admission Encounters**: 26,739
-- **Males**: 46.88%
-- **Females**: 53.12%
-- **Most Common Encounter Class**: Ambulatory (46.87%)
-- **Average Cost Per Visit**: $3,442
+| **Total Patients**                 | 974           |
+| **Total Encounters**               | 27,891        |
+| **Admission Encounters**           | 760           |
+| **Non-Admission Encounters**       | 26,739        |
+| **Males**                          | 46.88%        |
+| **Females**                        | 53.12%        |
+| **Most Common Encounter Class**    | Ambulatory (46.87%) |
+| **Average Cost Per Visit**         | $3,442        |
 
 ### Length of Stay for Non-Admitted Patients
-- Under 15 minutes: 19,313 encounters
-- Under 30 minutes: 645 encounters
-- Under 45 minutes: 476 encounters
-- Under 1 hour: 3,376 encounters
-- Over 1 hour: 2,929 encounters
+| **Under 15 minutes**     | 19,313               |
+| **Under 30 minutes**     | 645                  |
+| **Under 45 minutes**     | 476                  |
+| **Under 1 hour**         | 3,376                |
+| **Over 1 hour**          | 2,929                |
 
 ### Length of Stay for Each Encounter Class (in Minutes)
-- **Emergency**: 61.03 minutes
-- **Ambulatory**: 55.43 minutes
-- **Outpatient**: 16.57 minutes
-- **Wellness**: 15.00 minutes
-- **Urgent Care**: 15.00 minutes
+| **Emergency**        | 61.03                      |
+| **Ambulatory**       | 55.43                      |
+| **Outpatient**       | 16.57                      |
+| **Wellness**         | 15.00                      |
+| **Urgent Care**      | 15.00                      |
 
 ### Encounters for Admitted Patients
-- **Total Patients**: 974
-- **Total Admissions**: 623
-- **Initial Admissions**: 347
-- **Readmissions**: 276
-- **Patients Admitted at Least Once**: 143
-- **Patients Never Admitted**: 831
-- **Patients Readmitted**: 20
-- **Males**: 65.33%
-- **Females**: 34.67%
-- **Average Cost Per Visit**: $11,630
+| **Total Patients**                    | 974        |
+| **Total Admissions**                  | 623        |
+| **Initial Admissions**                | 347        |
+| **Readmissions**                      | 276        |
+| **Patients Admitted at Least Once**   | 143        |
+| **Patients Never Admitted**           | 831        |
+| **Patients Readmitted**               | 20         |
+| **Males**                             | 65.33%     |
+| **Females**                           | 34.67%     |
+| **Average Cost Per Visit**            | $11,630    |
 
 ### Death Analysis
-- **Total Deaths**: 41
-- **Patients Died During Admissions**: 10
-- **Patients Died Within 30 Days of Admission**: 31
+| **Total Deaths**                            | 41         |
+| **Patients Died During Admissions**         | 10         |
+| **Patients Died Within 30 Days of Admission** | 31       |
 
 #### Deaths by Cause (Top Causes)
 | Cause                                                   | Admitted Patients | Number of Deaths | Death Ratio |
@@ -105,9 +105,9 @@ These definitions helped in calculating key metrics such as total admissions, in
 | Primary small cell malignant neoplasm of lung (TNM 1)   | 53                | 1                | 1.00%       |
 
 ### Length of Stay for Admitted Patients
-- 1-day admission: 585 patients
-- Under 20 days: 28 patients
-- Over a month: 13 patients
+| **1-day Admission**           | 585        |
+| **Under 20 Days**             | 28         |
+| **Over a Month**              | 13         |
 
 ### Procedure Analysis
 - **Total Procedures**: 47,701
