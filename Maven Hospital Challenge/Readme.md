@@ -151,5 +151,5 @@ This analysis was entirely performed using **PostgreSQL**, which helped me showc
 - **Relationship Management SQL**: [View here](https://github.com/IkhlasAhmad1998/SQL-Projects/blob/b5ce2197140329ff1f5418ffacf064793738ffdc/Maven%20Hospital%20Challenge/managing-relations.sql)
 - **ERD Image**: [View ERD](https://github.com/IkhlasAhmad1998/SQL-Projects/blob/b5ce2197140329ff1f5418ffacf064793738ffdc/Maven%20Hospital%20Challenge/images/erd.png)
 - **Analysis of Non-Admission Encounters**: [View here](https://github.com/IkhlasAhmad1998/SQL-Projects/blob/b5ce2197140329ff1f5418ffacf064793738ffdc/Maven%20Hospital%20Challenge/encounters-non-admission-analysis.sql)
--- **Analysis of Admission Encounters**: [View here](https://github.com/IkhlasAhmad1998/SQL-Projects/blob/b5ce2197140329ff1f5418ffacf064793738ffdc/Maven%20Hospital%20Challenge/encounters-admission-analysis.sql)
--- **Analysis of Procedures**: [View here](https://github.com/IkhlasAhmad1998/SQL-Projects/blob/b5ce2197140329ff1f5418ffacf064793738ffdc/Maven%20Hospital%20Challenge/procedures-analysis.sql)
+- **Analysis of Admission Encounters**: [View here](https://github.com/IkhlasAhmad1998/SQL-Projects/blob/b5ce2197140329ff1f5418ffacf064793738ffdc/Maven%20Hospital%20Challenge/encounters-admission-analysis.sql)
+- **Analysis of Procedures**: [View here](https://github.com/IkhlasAhmad1998/SQL-Projects/blob/b5ce2197140329ff1f5418ffacf064793738ffdc/Maven%20Hospital%20Challenge/procedures-analysis.sql)
