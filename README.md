@@ -1,2 +1,2 @@
 # SQL-Projects
-Repo that contains my sql projects
+This repository contains my SQL projects and its documentation.
