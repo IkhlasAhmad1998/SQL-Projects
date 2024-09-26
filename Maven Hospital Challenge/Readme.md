@@ -57,16 +57,18 @@ These definitions helped in calculating key metrics such as total admissions, in
 ### Encounters for Non-Admitted Patients
 | **Metric**                        | **Value**          |
 |-----------------------------------|--------------------|
-| Total Patients                    | 974                |
-| Total Encounters                  | 27,891             |
-| Admission Encounters              | 760                |
-| Non-Admission Encounters          | 26,739             |
-| Males                             | 46.88%             |
-| Females                           | 53.12%             |
-| Most Common Encounter Class       | Ambulatory (46.87%)|
-| Average Cost Per Visit            | $3,442             |
+| **Total Patients**                    | 974                |
+| **Total Encounters**                  | 27,891             |
+| **Admission Encounters**              | 760                |
+| **Non-Admission Encounters**         | 26,739             |
+| **Males**                            | 46.88%             |
+| **Females**                          | 53.12%             |
+| **Most Common Encounter Class**       | Ambulatory (46.87%)|
+| **Average Cost Per Visit**            | $3,442             |
 
 ### Length of Stay for Non-Admitted Patients
+| **Metric**                        | **Value**          |
+|-----------------------------------|--------------------|
 | **Under 15 minutes**     | 19,313               |
 | **Under 30 minutes**     | 645                  |
 | **Under 45 minutes**     | 476                  |
@@ -74,6 +76,8 @@ These definitions helped in calculating key metrics such as total admissions, in
 | **Over 1 hour**          | 2,929                |
 
 ### Length of Stay for Each Encounter Class (in Minutes)
+| **Metric**                        | **Value**          |
+|-----------------------------------|--------------------|
 | **Emergency**        | 61.03                      |
 | **Ambulatory**       | 55.43                      |
 | **Outpatient**       | 16.57                      |
@@ -81,6 +85,8 @@ These definitions helped in calculating key metrics such as total admissions, in
 | **Urgent Care**      | 15.00                      |
 
 ### Encounters for Admitted Patients
+| **Metric**                        | **Value**          |
+|-----------------------------------|--------------------|
 | **Total Patients**                    | 974        |
 | **Total Admissions**                  | 623        |
 | **Initial Admissions**                | 347        |
@@ -93,6 +99,8 @@ These definitions helped in calculating key metrics such as total admissions, in
 | **Average Cost Per Visit**            | $11,630    |
 
 ### Death Analysis
+| **Metric**                        | **Value**          |
+|-----------------------------------|--------------------|
 | **Total Deaths**                            | 41         |
 | **Patients Died During Admissions**         | 10         |
 | **Patients Died Within 30 Days of Admission** | 31       |
@@ -107,6 +115,8 @@ These definitions helped in calculating key metrics such as total admissions, in
 | Primary small cell malignant neoplasm of lung (TNM 1)   | 53                | 1                | 1.00%       |
 
 ### Length of Stay for Admitted Patients
+| **Metric**                        | **Value**          |
+|-----------------------------------|--------------------|
 | **1-day Admission**           | 585        |
 | **Under 20 Days**             | 28         |
 | **Over a Month**              | 13         |
